@@ -6,6 +6,7 @@ def string_upper(text):
     """
     return text.upper()
 
+
 def string_title(text):
     """
     Возвращает строку с заглавными первыми буквами каждого слова в строке.
@@ -14,6 +15,11 @@ def string_title(text):
     """
     return text.title()
 
-def test(text):
-    """Нужно сделать докстринг"""
+
+def string_lower(text):
+    """
+    Возвращает строку в нижнем регистре.
+    :param text: str
+    :return: str
+    """
     return text.lower()
