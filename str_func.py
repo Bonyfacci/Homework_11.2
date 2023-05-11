@@ -15,4 +15,5 @@ def string_title(text):
     return text.title()
 
 def test(text):
+    """Нужно сделать докстринг"""
     return text.lower()
