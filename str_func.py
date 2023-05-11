@@ -13,3 +13,6 @@ def string_title(text):
     :return: str
     """
     return text.title()
+
+def test(text):
+    return text.lower()
