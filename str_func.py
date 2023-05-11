@@ -23,3 +23,5 @@ def string_lower(text):
     :return: str
     """
     return text.lower()
+
+print("Hello World!")
